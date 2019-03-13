@@ -1,4 +1,4 @@
-# animate-numbers
+# Animate Numbers
 
 ```html
 <!DOCTYPE html>
